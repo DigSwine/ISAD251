@@ -13,11 +13,10 @@
       <executable />
     </execution>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1WAKmk2oVmuiOt8BIgyVUKonaSf" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/uni/Year 2/Isad/Eaxpp/htdocs/here" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578587119654</updated>
-      <workItem from="1578587120933" duration="4480000" />
+      <workItem from="1578587120933" duration="3072000" />
+      <workItem from="1578593309947" duration="13303000" />
     </task>
     <servers />
   </component>
