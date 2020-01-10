@@ -1,8 +1,8 @@
 <?php
 
-const SeverHTML = 'https://proj-mysql.uopnet.plymouth.ac.uk/sql.php?db=isad251_mwilsonslider&table=tbl_customer&pos=0';
+const SeverHTML = 'proj-mysql.uopnet.plymouth.ac.uk';
 const User = 'ISAD251_MWilsonSlider';
-const Pass = 'ISAD251_2220142';
+const Pass = 'ISAD251_22201420';
 const DataBase = 'ISAD251_MWilsonSlider';
 
 function getConnection()
@@ -28,3 +28,4 @@ function getAll($tablename)
 
     return $resultSet;
 }
+

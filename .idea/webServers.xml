@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="be87cb97-6942-4d79-a3bc-aab0c925aae4" name="xammp" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="D:\uni\Year 2\Isad\Eaxpp\htdocs" accessType="MOUNT" />
+      <webServer id="be87cb97-6942-4d79-a3bc-aab0c925aae4" name="xammp" url="http://localhost:4040/here/ISAD251">
+        <fileTransfer port="0" mountedRoot="C:\Users\mwilson-slider\Desktop\Eaxpp\htdocs\here\ISAD251" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
